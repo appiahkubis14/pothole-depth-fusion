@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+# .env
+
+# Output directories
+# output/
+# outputs/
+# annotated_frames/
+results/
+
+# Data files
+# data/videos/
+# data/imu&gps/
+# *.webm
+*.mp4
+*.avi
+
+# Models (too large for git)
+# *.pt
+# *.pth
+*.onnx
+*.engine
+
+# IDE
+.vscode/
+.idea/
